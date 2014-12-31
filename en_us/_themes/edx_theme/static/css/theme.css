@@ -2617,10 +2617,11 @@ code.code-large, .rst-content tt.code-large {
 .wy-plain-list-disc li, .rst-content .section ul li, .rst-content .toctree-wrapper ul li {
 	list-style: disc;
 	margin-left: 24px;
-	margin-bottom: 12px
+	margin-bottom: 8px
 }
 .wy-plain-list-disc li ul, .rst-content .section ul li ul, .rst-content .toctree-wrapper ul li ul {
-	margin-bottom: 0
+	margin-bottom: 8px;
+	margin-top: 8px
 }
 .wy-plain-list-disc li li, .rst-content .section ul li li, .rst-content .toctree-wrapper ul li li {
 	list-style: circle
