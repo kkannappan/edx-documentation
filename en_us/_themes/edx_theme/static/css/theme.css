@@ -1437,7 +1437,7 @@ ul.icons li .icon-large:before, ul.icons li .icon-large:before {
 	padding: 24px;
 	line-height: 24px;
 	margin-bottom: 24px;
-	border-left: solid 3px transparent
+/*	border-left: solid 3px transparent */
 }
 .wy-alert strong, .rst-content .note strong, .rst-content .attention strong, .rst-content .caution strong, .rst-content .danger strong, .rst-content .error strong, .rst-content .hint strong, .rst-content .important strong, .rst-content .tip strong, .rst-content .warning strong, .wy-alert a, .rst-content .note a, .rst-content .attention a, .rst-content .caution a, .rst-content .danger a, .rst-content .error a, .rst-content .hint a, .rst-content .important a, .rst-content .tip a, .rst-content .warning a {
 	color: #fff
