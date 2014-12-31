@@ -3434,7 +3434,8 @@ footer p {
 }
 .rst-content img {
 	max-width: 100%;
-	height: auto !important
+	height: auto !important;
+	margin-bottom: 8px
 }
 .rst-content .section>img {
 	margin-bottom: 24px
