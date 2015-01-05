@@ -112,10 +112,12 @@ view each component.
    are visible to all students enrolled in your course, regardless of the
    cohort group that they belong to.
 
-#. In Studio, select **Course Outline**. 
-#. For each component that you want to make visible to a particular content group or groups ...
-#. 
+#. In Studio, select **Content**, then select **Outline**. 
+#. For each component that you want to make visible only to a particular content group or groups, click the **Visibility Settings** icon.
+#. In the **Editing visibility** dialog, select **Specific Content Groups**, then select the checkbox for each content group to which you want the current component to be visible.
+#. Click **Save**.
 
+.. note:: If some content in the current course section is visible only to particular groups, you see a note in the sidebar indicating this. 
 
 
 .. _View course as a content group
@@ -128,5 +130,9 @@ After you designate components in your course as being visible to only
 specific content groups, you can preview your courseware to ensure that each
 group correctly sees the intended content.
 
-
-
+#. In Studio, in the course outline, click **Preview Changes**.
+#. You see your course section in the **Courseware** section of the LMS. In the navigation bar at the top of the page, select one of the options in the **View this course as** drop down list:
+   * Staff -- sees all content in the course.
+   * Student -- sees any content that is set to be visible to all students.
+   * Student in <name of content group> -- sees the course as a member of the specific content group.
+     
