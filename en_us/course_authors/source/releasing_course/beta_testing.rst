@@ -64,16 +64,18 @@ to work". They use their own computers and Internet connections to view
 videos, follow links, and complete problems. They interact with the course as
 students will to find, and make, mistakes.
 
-However, beta testers are not the same as the other students in the course,
+However, beta testers are not the same as other students in the course,
 either. They have privileged access to the course and have more time to review
-and complete the course materials than the enrolled students do. As a result,
-beta testers do not receive certificates when they complete a course.
+and complete the course materials than the enrolled students do. Course
+discussions are not open before the course start date, so beta testers cannot
+participate in community conversations. As a result of these differences, beta
+testers do not receive certificates when they complete a course.
 
 .. note:: If one of your beta testers wishes to earn a certificate for the 
  course, she must create a separate user account with a different username and
  email address. She can then use that separate, non-privileged user account to
- enroll in the course and repeat all of the work, completing the assignments
- and exams when they are available to all students.
+ enroll in the course and repeat the work, completing assignments and exams
+ when they are available to all students.
 
 ==================================
 Qualities of Good Beta Testers
@@ -138,12 +140,7 @@ Beta testers should interact with everything in the course.
 
 As they work, beta testers log issues and questions for the course team.
 
-.. note:: Beta testers can make discussion posts and wiki contributions. You 
- might want to ask your testers not to make posts or contributions about
- unreleased courseware, and alert your discussion administration team to watch
- for posts from the beta testers.
-
- .. ^ Question to Jim A and Greg P about this. Melanie indicates that there is no discussion access.
+.. note:: Beta testers cannot make discussion posts or wiki contributions. 
 
 .. _How_Testers_See_Course:
 
