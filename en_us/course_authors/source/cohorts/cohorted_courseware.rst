@@ -7,9 +7,10 @@ About Cohorted Courseware
 
 If you have :ref:`cohort groups enabled<Enabling and Configuring Cohorts>` in
 your course, you can design different course experiences for students in
-different cohort groups. Design your course with different "tracks" of
-content so that students in one cohort group are given different content than
-students in another cohort group. You do this by creating content groups. For details about content groups, see :ref:`About Content Groups`.
+different cohort groups. Design your course with different "tracks" of content
+so that students in one cohort group are given different content than students
+in another cohort group. You do this by creating content groups. For details
+about content groups, see :ref:`About Content Groups`.
 
 Follow these steps to set up cohorted content in your course. Optionally, you
 might choose to transpose the order of steps 4 and 5.
@@ -120,7 +121,7 @@ view each component.
 .. note:: If some content in the current course section is visible only to particular groups, you see a note in the sidebar indicating this. 
 
 
-.. _View course as a content group
+.. _View Course as a Content Group
 
 *********************************************
 Preview Course as a Member of a Content Group
